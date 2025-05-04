@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "init": "^0.1.2"
+  },
+  "name": "ollama-opus",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
