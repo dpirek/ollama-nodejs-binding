@@ -1,10 +1,10 @@
 # ollama nodejs binding
 
 for testing run:
-``bash
+```bash
 npm run dev
-``
+```
 # install dependencies
-``bash
+```bash
 npm install nodemon
-``
+```
